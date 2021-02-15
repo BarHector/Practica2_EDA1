@@ -1,0 +1,10 @@
+Elaborar un código en el que se utilicen arreglos, apuntadores y funciones para:
+
+1. Dar opción al usuario de registrar los alumnos que requiera (máx . 30). 
+Leer de cada alumno su: número de cuenta, edad y calificación.
+
+2. Calcular e imprimir el promedio del grupo
+
+3. Calcular e imprimir la edad promedio de los alumnos del grupo cuya calificación sea igual o mayor a 6.0
+
+4. Imprimir la lista completa del grupo: Número de cuenta, edad y calificación
